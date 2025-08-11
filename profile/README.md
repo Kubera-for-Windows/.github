@@ -30,7 +30,7 @@ Whether you are a high-net-worth individual managing complex global assets, a cr
 
 ---
 
-![Kubera Portfolio View](https://cdn.prod.website-files.com/5ded36b5e942e74b13468d23/63c61a2394c96df08c4e7082_recap.png)
+![Kubera Portfolio View](https://cdn.kubera.com/r/opengraph/kubera_og_cover.png)
 
 ---
 
